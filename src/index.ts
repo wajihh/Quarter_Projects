@@ -1,3 +1,4 @@
+// First project using inquirer
 import inquirer from 'inquirer';
 
 async function main() {
